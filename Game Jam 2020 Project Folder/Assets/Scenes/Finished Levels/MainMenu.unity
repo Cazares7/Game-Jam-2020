@@ -1215,7 +1215,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 21
+    m_FontSize: 19
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 9
@@ -1242,20 +1242,24 @@ MonoBehaviour:
 
     -This is the canon sequel to Deus Ex Machina
 
+    -there are two
+    default looking button to the side because that was the only way I could get
+    it to work
 
-    Jalen Jackson
-    - Programmer
+
+    Jalen Jackson - Programmer
 
     Jesus Cazares - Programmer
 
-    Margerite Nunez - Art
+    Margerite
+    Nunez - Art
 
-    Gina
-    Ha - Art
+    Gina Ha - Art
 
     Kendrick Haskins- Sound
 
-    Leonel Cazres - Sound'
+    Leonel Cazres
+    - Sound'
 --- !u!222 &1233403362
 CanvasRenderer:
   m_ObjectHideFlags: 0
