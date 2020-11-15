@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3468506790612500038}
   - component: {fileID: 4306479943835264175}
   - component: {fileID: 1208961739203103451}
+  - component: {fileID: 6033244119668214582}
   m_Layer: 0
   m_Name: _SoundManager
   m_TagString: SoundManager
@@ -161,3 +162,15 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 5df81e9e11f01764db160c0f4153ff59, type: 2}
+--- !u!114 &6033244119668214582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3582853771475235271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b5dffc5a994f0c4fb0ab8135340c548, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
