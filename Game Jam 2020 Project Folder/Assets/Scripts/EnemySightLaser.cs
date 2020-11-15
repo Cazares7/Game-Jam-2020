@@ -7,6 +7,8 @@ public class EnemySightLaser : MonoBehaviour
 {
     public LineRenderer lineOfSight;
     public float range;
+
+    bool IsLight;
     // Start is called before the first frame update
 
     void Start()
@@ -27,7 +29,7 @@ public class EnemySightLaser : MonoBehaviour
             lineOfSight.SetPosition(1, hitinfo.point);
 
             if (hitinfo.collider.CompareTag("Player")) {
-                CustomEvent.Trigger(GameObject.FindGameObjectWithTag("Player"), "Death");
+                CustomEvent.Trigger(GameObject.FindGameObjectWithTag("Player"), "Death", IsLight);
             }
 
         }
@@ -47,5 +49,7 @@ public class EnemySightLaser : MonoBehaviour
     
     }
 
-   
+   public void SetLight(bool isLight) {
+       IsLight = isLight;
+   }
 }

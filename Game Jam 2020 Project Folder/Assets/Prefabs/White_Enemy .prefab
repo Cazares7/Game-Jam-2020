@@ -258,7 +258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"rotationSpeed","value":{"$content":35.0,"$type":"System.Single"},"$version":"A"},{"name":"sightDistance","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"lineOfSight","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"layer","value":{"value":0,"$type":"UnityEngine.LayerMask"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"rotationSpeed","value":{"$content":35.0,"$type":"System.Single"},"$version":"A"},{"name":"sightDistance","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"lineOfSight","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"IsLight","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 6313778767798871730}
 --- !u!114 &9135647838738437752
