@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: CameraShake
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":101.1111,"y":-21.11111},"zoom":0.9,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-285.0,"y":-111.0},"guid":"7da06c40-7ba3-4476-a79e-14e91e4654ef","$version":"A","$type":"Bolt.Start"}],"$version":"A"}}'
     _objectReferences: []
