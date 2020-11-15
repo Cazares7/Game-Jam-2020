@@ -13,7 +13,7 @@ public class EnemySightLaser : MonoBehaviour
 
     void Start()
     {
-
+Physics2D.queriesStartInColliders = false;
     }
     void FixedUpdate()
     { 
@@ -51,5 +51,11 @@ public class EnemySightLaser : MonoBehaviour
 
    public void SetLight(bool isLight) {
        IsLight = isLight;
+
+
+   }
+
+   public LineRenderer GetLineOfSight() {
+       return lineOfSight;
    }
 }
