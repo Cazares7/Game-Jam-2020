@@ -6,6 +6,8 @@ TagManager:
   tags:
   - SoundManager
   - UIManager
+  - Song
+  - GameOver
   layers:
   - Default
   - TransparentFX
