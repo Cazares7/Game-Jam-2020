@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Jalen/Testing_LevelCompletion.unity
-    guid: 06d3c3f74d034ce4b8f894498670b3a5
+    path: Assets/Scenes/Jalen/Testing_Tilemap.unity
+    guid: 8c15b9ab5674fb445976bb6ca44845de
   - enabled: 1
     path: Assets/Scenes/Jalen/Passed_LevelCompletion.unity
     guid: b03d720585a78d346885a3b023f2e2bd

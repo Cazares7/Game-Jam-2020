@@ -1,0 +1,1343 @@
+fileFormatVersion: 2
+guid: 9aeaae1c0afae8b43a8aa9608ad2083f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2976280911086743279
+    second: Assets_Wall_ConcreteBlock_0
+  - first:
+      213: 7867993087505444939
+    second: Assets_Wall_ConcreteBlock_1
+  - first:
+      213: 6014837315443529534
+    second: Assets_Wall_ConcreteBlock_2
+  - first:
+      213: -5453751005930488830
+    second: Assets_Wall_ConcreteBlock_3
+  - first:
+      213: -8533429552777313887
+    second: Assets_Wall_ConcreteBlock_4
+  - first:
+      213: 5111346239965325887
+    second: Assets_Wall_ConcreteBlock_5
+  - first:
+      213: 3251797474020962782
+    second: Assets_Wall_ConcreteBlock_6
+  - first:
+      213: -5017183249975872690
+    second: Assets_Wall_ConcreteBlock_7
+  - first:
+      213: -2007868530256700956
+    second: Assets_Wall_ConcreteBlock_8
+  - first:
+      213: 4956590596952924404
+    second: Assets_Wall_ConcreteBlock_9
+  - first:
+      213: 7935748215106944989
+    second: Assets_Wall_ConcreteBlock_10
+  - first:
+      213: 6579651561688749500
+    second: Assets_Wall_ConcreteBlock_11
+  - first:
+      213: 1871077940918778434
+    second: Assets_Wall_ConcreteBlock_12
+  - first:
+      213: 879921090607901066
+    second: Assets_Wall_ConcreteBlock_13
+  - first:
+      213: -2363911577345416251
+    second: Assets_Wall_ConcreteBlock_14
+  - first:
+      213: -4032355049577636381
+    second: Assets_Wall_ConcreteBlock_15
+  - first:
+      213: 4840096512039508846
+    second: Assets_Wall_ConcreteBlock_16
+  - first:
+      213: 5164827762288204887
+    second: Assets_Wall_ConcreteBlock_17
+  - first:
+      213: -2018176527415105735
+    second: Assets_Wall_ConcreteBlock_18
+  - first:
+      213: 8506594740932430746
+    second: Assets_Wall_ConcreteBlock_19
+  - first:
+      213: 6226647439583432474
+    second: Assets_Wall_ConcreteBlock_20
+  - first:
+      213: 8272321043583118626
+    second: Assets_Wall_ConcreteBlock_21
+  - first:
+      213: -8868956896221522414
+    second: Assets_Wall_ConcreteBlock_22
+  - first:
+      213: -490310386795571714
+    second: Assets_Wall_ConcreteBlock_23
+  - first:
+      213: -1115741366618414412
+    second: Assets_Wall_ConcreteBlock_24
+  - first:
+      213: -7339317715231909046
+    second: Assets_Wall_ConcreteBlock_25
+  - first:
+      213: -3922498693299592775
+    second: Assets_Wall_ConcreteBlock_26
+  - first:
+      213: -1131046308952471544
+    second: Assets_Wall_ConcreteBlock_27
+  - first:
+      213: -5151876100607661779
+    second: Assets_Wall_ConcreteBlock_28
+  - first:
+      213: 9051193270436992090
+    second: Assets_Wall_ConcreteBlock_29
+  - first:
+      213: 7846509079743106007
+    second: Assets_Wall_ConcreteBlock_30
+  - first:
+      213: 7938743616019817380
+    second: Assets_Wall_ConcreteBlock_31
+  - first:
+      213: 3443896315888082739
+    second: Assets_Wall_ConcreteBlock_32
+  - first:
+      213: 1804897374682572106
+    second: Assets_Wall_ConcreteBlock_33
+  - first:
+      213: 1900868001507654103
+    second: Assets_Wall_ConcreteBlock_34
+  - first:
+      213: 5494758912765060444
+    second: Assets_Wall_ConcreteBlock_35
+  - first:
+      213: 490473326868124351
+    second: Assets_Wall_ConcreteBlock_36
+  - first:
+      213: -1044630206802684128
+    second: Assets_Wall_ConcreteBlock_37
+  - first:
+      213: -4842630478237360397
+    second: Assets_Wall_ConcreteBlock_38
+  - first:
+      213: 320781425705140450
+    second: Assets_Wall_ConcreteBlock_39
+  - first:
+      213: 3338579276220575923
+    second: Assets_Wall_ConcreteBlock_40
+  - first:
+      213: -5190483423057525651
+    second: Assets_Wall_ConcreteBlock_41
+  - first:
+      213: -5830595745144102219
+    second: Assets_Wall_ConcreteBlock_42
+  - first:
+      213: -5632677328134336861
+    second: Assets_Wall_ConcreteBlock_43
+  - first:
+      213: 6506630574629271472
+    second: Assets_Wall_ConcreteBlock_44
+  - first:
+      213: -8722888141129290938
+    second: Assets_Wall_ConcreteBlock_45
+  - first:
+      213: -5840755551036404192
+    second: Assets_Wall_ConcreteBlock_46
+  - first:
+      213: -5545461463958526956
+    second: Assets_Wall_ConcreteBlock_47
+  - first:
+      213: -7915560614243498958
+    second: Assets_Wall_ConcreteBlock_48
+  - first:
+      213: 6318089938363046125
+    second: Assets_Wall_ConcreteBlock_49
+  - first:
+      213: -3383732242318684856
+    second: Assets_Wall_ConcreteBlock_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee91938bfdd4920800000000000000
+      internalID: 2976280911086743279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 576
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40bdf3d60ab03d60800000000000000
+      internalID: 7867993087505444939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 576
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3796c0abaef87350800000000000000
+      internalID: 6014837315443529534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 576
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7516fa526054b0800000000000000
+      internalID: -5453751005930488830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 576
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a143e6a80b239980800000000000000
+      internalID: -8533429552777313887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a692df2562fe640800000000000000
+      internalID: 5111346239965325887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 512
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13888e294b02d20800000000000000
+      internalID: 3251797474020962782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 512
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f5249a626f5ab0800000000000000
+      internalID: -5017183249975872690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 512
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91d5ab53e9224e0800000000000000
+      internalID: -2007868530256700956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 512
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ab6403e859c440800000000000000
+      internalID: 4956590596952924404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb36cc4f0712e60800000000000000
+      internalID: 7935748215106944989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 448
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55d402c3e9f4b50800000000000000
+      internalID: 6579651561688749500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 448
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a788f497767f910800000000000000
+      internalID: 1871077940918778434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 448
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ee04e19b163c00800000000000000
+      internalID: 879921090607901066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 448
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3a4e7e1f2b13fd0800000000000000
+      internalID: -2363911577345416251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed1cad52723a08c0800000000000000
+      internalID: -4032355049577636381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 384
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd8be322a7b2340800000000000000
+      internalID: 4840096512039508846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 384
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c93414c772da740800000000000000
+      internalID: 5164827762288204887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 384
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937246d142ffdf3e0800000000000000
+      internalID: -2018176527415105735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 384
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bcb75d8de7d0670800000000000000
+      internalID: 8506594740932430746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f47f92bde796650800000000000000
+      internalID: 6226647439583432474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 320
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da2c619203dc270800000000000000
+      internalID: 8272321043583118626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 320
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216177051b22be480800000000000000
+      internalID: -8868956896221522414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 320
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef59d5d0d411239f0800000000000000
+      internalID: -490310386795571714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 320
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2208573271480f0800000000000000
+      internalID: -1115741366618414412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bded16c61852a90800000000000000
+      internalID: -7339317715231909046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 256
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1a1f1883c7099c0800000000000000
+      internalID: -3922498693299592775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 256
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080f52ef57bd40f0800000000000000
+      internalID: -1131046308952471544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 256
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29a4787bfbd088b0800000000000000
+      internalID: -5151876100607661779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 256
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a549dcdf25c4c9d70800000000000000
+      internalID: 9051193270436992090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db07f87f6664ec60800000000000000
+      internalID: 7846509079743106007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e2cbe1451c2e60800000000000000
+      internalID: 7938743616019817380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 192
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f19c7e37d2bcf20800000000000000
+      internalID: 3443896315888082739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 192
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a456df979984c0910800000000000000
+      internalID: 1804897374682572106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d935ca406d316a10800000000000000
+      internalID: 1900868001507654103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55e5c16e1e414c40800000000000000
+      internalID: 5494758912765060444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 128
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb257c364e28ec600800000000000000
+      internalID: 490473326868124351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02712e19c5ab081f0800000000000000
+      internalID: -1044630206802684128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 128
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9e26cc358bccb0800000000000000
+      internalID: -4842630478237360397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 128
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c2b1d105a37400800000000000000
+      internalID: 320781425705140450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0bb95c924055e20800000000000000
+      internalID: 3338579276220575923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d644a1cb3d2b7f7b0800000000000000
+      internalID: -5190483423057525651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 64
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b228c5cf00951fa0800000000000000
+      internalID: -5830595745144102219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 64
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae082230d5b4d1b0800000000000000
+      internalID: -5632677328134336861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 64
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73975b8023c4a50800000000000000
+      internalID: 6506630574629271472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6584937312f680800000000000000
+      internalID: -8722888141129290938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e8590a5c771fea0800000000000000
+      internalID: -5840755551036404192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414622dfd209a03b0800000000000000
+      internalID: -5545461463958526956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_48
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23481fd4f87462290800000000000000
+      internalID: -7915560614243498958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_Wall_ConcreteBlock_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63.8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85913035d5ea750800000000000000
+      internalID: 6318089938363046125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
