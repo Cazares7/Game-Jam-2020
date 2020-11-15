@@ -316,6 +316,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: TransformLaser
       objectReference: {fileID: 0}
+    - target: {fileID: 921768027749104238, guid: ae4e8093daae9ca4fb433a512f2547fb,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"IsLight","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"MaxLaserWidth","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"laser","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae4e8093daae9ca4fb433a512f2547fb, type: 3}
 --- !u!1 &972179321
