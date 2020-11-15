@@ -144,8 +144,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"IsLight","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"LaserTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"laser","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"IsLight","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"MaxLaserWidth","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"laser","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 921768028453352634}
 --- !u!114 &921768027749104145
 MonoBehaviour:
   m_ObjectHideFlags: 0
