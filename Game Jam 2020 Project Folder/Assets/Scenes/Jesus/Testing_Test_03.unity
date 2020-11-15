@@ -1175,7 +1175,13 @@ PrefabInstance:
     - target: {fileID: 845804254595424040, guid: 240d709769b924d40a29097bbf95c7cd,
         type: 3}
       propertyPath: m_Name
-      value: White_Enemy
+      value: White_Enemy_Patrol
+      objectReference: {fileID: 0}
+    - target: {fileID: 845804254595424042, guid: 240d709769b924d40a29097bbf95c7cd,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"rotationSpeed","value":{"$content":35.0,"$type":"System.Single"},"$version":"A"},{"name":"sightDistance","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"lineOfSight","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"moveSpots","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Transform,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 845804254595424043, guid: 240d709769b924d40a29097bbf95c7cd,
         type: 3}
