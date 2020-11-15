@@ -6,6 +6,7 @@ public class MainMenu : MonoBehaviour
 {
 
     public GameObject CanvasToRender;
+    public GameObject main;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,5 +22,16 @@ public class MainMenu : MonoBehaviour
     public void ToggleCanvas() {
         bool toggle = !CanvasToRender.activeSelf;
         CanvasToRender.gameObject.SetActive(toggle);
+
+      
     }
+
+     public void ToggleCanvas(GameObject canvas) {
+        bool toggle = !canvas.activeSelf;
+        canvas.gameObject.SetActive(toggle);
+
+    
+    }
+
+    
 }

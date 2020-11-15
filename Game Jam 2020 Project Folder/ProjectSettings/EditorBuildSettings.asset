@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Jalen/Passed_LevelCompletion.unity
     guid: b03d720585a78d346885a3b023f2e2bd
+  - enabled: 1
+    path: Assets/Scenes/Finished Levels/Level1.unity
+    guid: a9f86b9be567b73489a1ce894a12dc3d
   m_configObjects: {}
