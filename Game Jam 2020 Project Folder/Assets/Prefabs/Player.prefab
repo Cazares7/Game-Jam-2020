@@ -145,9 +145,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"Body","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"MovingSpeed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 5845054521740174576}
+    _json: '{"declarations":{"collection":{"$content":[{"name":"MovingSpeed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!114 &5845054521740174583
 MonoBehaviour:
   m_ObjectHideFlags: 0
