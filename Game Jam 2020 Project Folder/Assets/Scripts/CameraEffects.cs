@@ -8,11 +8,25 @@ namespace DitzeGames.Effects
     /// </summary>
     public class CameraEffects : MonoBehaviour
     {
+         /// <summary>
+        /// Smooth Factor
+        /// </summary>
+        public float SmoothFactor = 0.5f;
+
+        /// <summary>
+        /// Speed of how fast camera is following the player
+        /// </summary>
+        public float FollowSpeed = 25.0f;
+
+         /// <summary>
+        /// Offset for the camera facing the player
+        /// </summary>
+        public Vector3 CameraOffset;
+
         /// <summary>
         /// Amount of Shake
         /// </summary>
         public Vector3 Amount = new Vector3(1f, 1f, 0);
-
         /// <summary>
         /// Duration of Shake
         /// </summary>
@@ -41,6 +55,8 @@ namespace DitzeGames.Effects
         protected float lastFoV;
         protected float nextFoV;
         protected bool destroyAfterPlay;
+
+        private Vector3 velocity = Vector3.one;
 
         /// <summary>
         /// awake
@@ -81,6 +97,13 @@ namespace DitzeGames.Effects
 
         private void LateUpdate()
         {
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            if (player != null)
+            {
+                Vector3 newPosition = player.transform.position + CameraOffset;
+                Camera.transform.position = Vector3.SmoothDamp(Camera.transform.position, newPosition, ref velocity, SmoothFactor, FollowSpeed);
+            }
+
             if (time > 0)
             {
                 //do something
