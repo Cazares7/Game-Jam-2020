@@ -29,7 +29,7 @@ public class EnemySightLaser : MonoBehaviour
             lineOfSight.SetPosition(1, hitinfo.point);
 
             if (hitinfo.collider.CompareTag("Player")) {
-                CustomEvent.Trigger(GameObject.FindGameObjectWithTag("Player"), "Death", IsLight);
+                CustomEvent.Trigger(GameObject.FindGameObjectWithTag("Player"), "Death", !IsLight);
             }
 
         }
