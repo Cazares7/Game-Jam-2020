@@ -98,6 +98,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e26a016110b94d49af9d95cebb21d3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SmoothFactor: 1
+  CameraOffset: {x: 0, y: 0, z: -10}
   Amount: {x: 1, y: 1, z: 0}
   Duration: 1
   Speed: 10
