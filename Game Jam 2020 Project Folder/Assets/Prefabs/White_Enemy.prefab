@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2024800220424307740}
   - component: {fileID: 2516313058720313315}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: LineOfSight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,8 +93,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 1, b: 1, a: 1}
-      key1: {r: 1, g: 1, b: 1, a: 1}
+      key0: {r: 1, g: 0.9858491, b: 0.9858491, a: 1}
+      key1: {r: 1, g: 0.9858491, b: 0.9858491, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 845804254595424043}
   - component: {fileID: 845804254595424042}
   - component: {fileID: 845804254595424041}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: White_Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -154,7 +154,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 845804254595424040}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.52, y: -0.43, z: -1.6852773}
+  m_LocalPosition: {x: -2.31, y: -0.58, z: -1.6852773}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 845804256517217965}
@@ -204,7 +204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 845804256517217965}
   - component: {fileID: 845804256517217966}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Enemies_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

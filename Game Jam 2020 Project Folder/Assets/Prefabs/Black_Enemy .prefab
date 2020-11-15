@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8445516865116704063}
   - component: {fileID: 8445516865116704062}
   - component: {fileID: 8445516865116704061}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: 'Black_Enemy '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76,7 +76,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8445516865392757945}
   - component: {fileID: 8445516865392757946}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Enemies_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -158,7 +158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7102721661546305032}
   - component: {fileID: 6657406359136763383}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: LineOfSight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -251,7 +251,7 @@ LineRenderer:
       key7: {r: 0, g: 0, b: 0, a: 0}
       ctime0: 0
       ctime1: 65535
-      ctime2: 0
+      ctime2: 65535
       ctime3: 0
       ctime4: 0
       ctime5: 0
